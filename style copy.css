@@ -2,15 +2,14 @@
     font-size: xx-large;
     font-weight: bold;
     padding: 5px;
-    color: black;
-}
-.Name{
-    font-size: xx-large;
+  }
+  .Name{
+    font-size: 40px;
     font-weight: bold;
-    background-color: aquamarine;
-    padding: 10px;
-    margin-top: 0px;
-}
+    color: rgb(13, 209, 209);
+    font-family: 'Yantramanav', sans-serif;
+    font-weight: bolder;
+  }
 body {
     background-color: #edf1f1;
 }
