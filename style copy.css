@@ -1,0 +1,16 @@
+.navbar-brand{
+    font-size: xx-large;
+    font-weight: bold;
+    padding: 5px;
+    color: black;
+}
+.Name{
+    font-size: xx-large;
+    font-weight: bold;
+    background-color: aquamarine;
+    padding: 10px;
+    margin-top: 0px;
+}
+body {
+    background-color: #edf1f1;
+}
