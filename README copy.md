@@ -1,0 +1,1 @@
+With this homework assigment I used bootstrap formulas and traditional CSS and html. 
