@@ -48,9 +48,4 @@ input[type=submit]:hover {
     font-weight: bold;
     color: rgb(13, 209, 209)
 }
-footer {
-  border-top-style: 5px rgb(3, 180, 180);
-  background-color: #777;
-  text-align: center;
-  }
   * {box-sizing: border-box;}
